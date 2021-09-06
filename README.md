@@ -5,6 +5,8 @@ Banking application allows the users to submit their details and then the users 
 
 ![image](https://user-images.githubusercontent.com/89722310/132219352-3ca5db26-d17d-4cb1-8d42-9438b3ed0e3e.png)
 
- <img src="https://www.code-inspector.com/project/27662/score/svg" alt="code inspector badge" />
 
+Build | Code Quality | Unity | [code Inspector](using github.io option) |Code Coverage
+------|---------------|-------|--------------|--------------
+xgt|   abd|            dhr|     <img src="https://www.code-inspector.com/project/27662/score/svg" alt="code inspector badge" />|  htr|
 
