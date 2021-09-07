@@ -10,5 +10,5 @@ Banking application allows the users to submit their details and then the users 
 
 Build | Code Quality | Unity | [code Inspector](using github.io option) |Code Coverage
 ------|---------------|-------|--------------|--------------
-xgt|   abd|            dhr|     <img src="https://www.code-inspector.com/project/27662/score/svg" alt="code inspector badge" />|  htr|
+xgt|   abd|            dhr|     <img src="https://www.code-inspector.com/project/27662/score/svg" alt="code inspector badge" />| [![Code Coverage](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/code_coverage.yml/badge.svg)](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/code_coverage.yml)|
 
