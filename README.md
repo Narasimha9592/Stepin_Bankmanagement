@@ -32,7 +32,7 @@ Folder             | Description
 
 SF ID. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-27662 | Dasineni Srinarasimha  | BanKing Management(Deposit, withdraw,et..)    |  No     |  No   | 4   | 4     
+99006085 | Dasineni Srinarasimha  | BanKing Management(Deposit, withdraw,et..)    |  No     |  No   | 4   | 4     
    
 
 
