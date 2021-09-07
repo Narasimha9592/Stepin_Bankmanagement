@@ -17,5 +17,18 @@ Build | Code Quality | Unity | [code Inspector](using github.io option) |Code Co
 
 <image src="https://www.code-inspector.com/project/27662/status/svg" alt="code grade" />
 
-## FOLDER STRUCTURE
+## CHALLENGES FACED AND HOW I OVERCOME THOSE
+
+1.I have faced some challenge in implementing make file. But, by referring multiple platform i solved the issue
+
+2.I have faced issues in file handling. so, I used strings.
+
+3.Updating and Deleting a file was overcame by using a temporary file to store data for some time.
+
+## LEARNING RESOURCES
+
+1.geekforgeeks
+
+2.youtube
+
 
