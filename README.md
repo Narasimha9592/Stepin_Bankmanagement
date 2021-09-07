@@ -12,6 +12,8 @@ Build | Code Quality | Unity | [code Inspector](using github.io option) |Code Co
 ------|---------------|-------|--------------|--------------
 [![BUILD](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/Build.yml/badge.svg)](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/Build.yml)|   [![Static Code Analysis](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/static.yml/badge.svg)](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/static.yml)|            [![Unit Testing](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/unit_test.yml/badge.svg)](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/unit_test.yml)|     <img src="https://www.code-inspector.com/project/27662/score/svg" alt="code inspector badge" />| [![Code Coverage](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/code_coverage.yml/badge.svg)](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/code_coverage.yml)|
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/932e2306910a4c67ae81d8cde2a3d273)](https://www.codacy.com/gh/Narasimha9592/Stepin_Bankmanagement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Narasimha9592/Stepin_Bankmanagement&amp;utm_campaign=Badge_Grade)
+
 
 [![Git Inspector](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/Narasimha9592/Stepin_Bankmanagement/actions/workflows/Git_Inspector.yml)
 
