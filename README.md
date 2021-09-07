@@ -17,6 +17,27 @@ Build | Code Quality | Unity | [code Inspector](using github.io option) |Code Co
 
 <image src="https://www.code-inspector.com/project/27662/status/svg" alt="code grade" />
 
+## FOLDER STRUCTURE
+
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+
+## CONTRIBUTION LIST AND SUMMARY
+
+SF ID. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+27662 | Dasineni Srinarasimha  | BanKing Management(Deposit, withdraw,et..)    |  No     |  No   | 4   | 4     
+   
+
+
+
+
+
+
 ## CHALLENGES FACED AND HOW I OVERCOME THOSE
 
 1.I have faced some challenge in implementing make file. But, by referring multiple platform i solved the issue
