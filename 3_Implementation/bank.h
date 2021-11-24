@@ -1,13 +1,4 @@
-/**
- * @file bank.h
- * @author venkateswari 
- * @brief header file
- * @version 0.1
- * @date 2021-04-11
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 
 /**
  * @brief define bank header file if not defined
