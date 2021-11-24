@@ -1,10 +1,3 @@
-
-
-/**
- * @brief define bank header file if not defined
- * 
- */
-
 #ifndef __BANK_H__
 #define __BANK_H__
 /**
